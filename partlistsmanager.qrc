@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/splashEmpty.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>themes/tango/index.theme</file>
+    </qresource>
+</RCC>
